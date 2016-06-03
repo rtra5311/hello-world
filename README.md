@@ -1,2 +1,2 @@
 # hello-world
-this place has no school
+Hello my name is Richard and i like playing sports and watching comedy movies.
